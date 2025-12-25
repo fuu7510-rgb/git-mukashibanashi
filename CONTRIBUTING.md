@@ -36,5 +36,9 @@
    git push origin fix/momotaro-typo
    ```
 
+> [!TIP]
+> **.gitignoreについて**
+> `.env` などのパスワードが含まれるファイルや、共有する必要のないファイルは、`.gitignore` にファイル名を追記することで間違えてPushしてしまうのを防ぐことができます。
+
 7. **Pull Request（プルリクエスト）**
    GitHub上でPull Request（変更の統合依頼）を作成します。
