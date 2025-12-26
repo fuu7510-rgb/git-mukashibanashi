@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120">
+  <rect width="100%" height="100%" fill="#eef7ff"/>
+  <g>
+    <circle cx="150" cy="80" r="18" fill="#d6a57c" />
+    <circle cx="142" cy="75" r="3" fill="#000" />
+    <circle cx="158" cy="75" r="3" fill="#000" />
+    <path d="M140 95 q10 10 20 0" stroke="#000" fill="transparent" stroke-linecap="round"/>
+    <circle cx="240" cy="20" r="12" fill="#fff2a8" />
+  </g>
+  <text x="10" y="115" font-size="10" fill="#666">挿絵：夜空を見上げるポチ（かぐや姫の帰りを待つ）</text>
+</svg>

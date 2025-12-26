@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120">
+  <rect width="100%" height="100%" fill="#f6fcff"/>
+  <g>
+    <circle cx="70" cy="75" r="18" fill="#d6a57c" />
+    <circle cx="62" cy="70" r="3" fill="#000" />
+    <circle cx="78" cy="70" r="3" fill="#000" />
+    <path d="M60 88 q10 10 20 0" stroke="#000" fill="transparent" stroke-linecap="round"/>
+    <text x="100" y="40" font-size="12" fill="#6b6b6b">求婚者をからかうポチ</text>
+  </g>
+  <text x="12" y="115" font-size="10" fill="#666">挿絵：庭でじゃれ、求婚者の足元を走るポチ</text>
+</svg>
